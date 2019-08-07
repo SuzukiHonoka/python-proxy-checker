@@ -15,7 +15,7 @@ from colorama import Fore, Back, Style
 #in_filename  = 'input/3.txt'
 in_directory = './input/filtered'
 out_filename = 'output/out_filtered2.txt'
-test_url = 'http://www.google.com/humans.txt'
+test_url = 'https://www.google.cn/generate_204'
 thread_number = 100
 timeout_value = 10
 
